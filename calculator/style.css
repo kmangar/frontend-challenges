@@ -1,0 +1,30 @@
+div{
+    padding-right: 50px;
+    padding-left: 50px;
+    border-top-width: 50px;
+    padding-top: 50px;
+    width: 1024px;
+    height: 720px;
+    background-color: #FFAEBC;
+    height: 1150px
+}
+.cal{
+    width: 940px;
+    height: 75px;
+    background: #A0E7E5;
+    border: black;
+    border-radius: 45px;
+    margin-bottom: 20px;
+}
+
+input{
+    padding: 45px;
+    font-size: xx-large;
+    border-radius: 45px;
+    background-color: #D8A7B1;
+    margin: 20px;
+    width: 179px;
+    height: 149px;
+    margin-left: 45px;
+
+}
